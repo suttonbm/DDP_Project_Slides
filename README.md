@@ -1,1 +1,1 @@
-# DDP_Project_Slides
+DDP_Coursera_Project
